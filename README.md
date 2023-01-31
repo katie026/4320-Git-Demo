@@ -1,2 +1,3 @@
-<title>Git Demo in Class</title>
-actually elanring git.
+# Git Demo in Class
+
+Actually learning git.
